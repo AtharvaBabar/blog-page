@@ -1,0 +1,22 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: 800;
+    background-color: antiquewhite;
+    color: black;
+    line-height: 1.5;
+}
+
+h2{
+    color: red;
+}
+
+button:hover{
+    color: white;
+    background-color: purple;
+}
+
+label:hover{
+    color: purple;
+}
+

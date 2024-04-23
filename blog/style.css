@@ -1,0 +1,33 @@
+*{
+    font-family: sans-serif;
+    background-color: antiquewhite;
+}
+
+header{
+    align-items: center;
+    display: inline-block;
+}
+
+header div img{
+    display: inline-block;
+    align-items: center;
+}
+
+div h1{
+    align-items: center;
+    color: red;
+}
+
+#save-btn:hover{
+    background-color: purple;
+    color: white;
+}
+
+#new-post-btn:hover{
+    background-color: purple;
+    color: white;
+}
+
+body{
+    text-align: center;
+}
